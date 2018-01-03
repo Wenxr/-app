@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Wenxr/-app/blob/d74687840dd88c6e007c83adb5304e65a5e8dea7/mmnk/HBuilder.ipa</string>
+					<string>https://github.com/Wenxr/-app/blob/master/mmnk/MMInternalControl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Wenxr/-app/d74687840dd88c6e007c83adb5304e65a5e8dea7/mmnk/512x512.png</string>
+					<string>https://github.com/Wenxr/-app/blob/master/mmnk/512x512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/Wenxr/-app/blob/d74687840dd88c6e007c83adb5304e65a5e8dea7/mmnk/57.png</string>
+					<string>https://github.com/Wenxr/-app/blob/master/mmnk/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
